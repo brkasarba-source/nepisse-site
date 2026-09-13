@@ -16964,6 +16964,48 @@ const meals = [
 ];
 
 const menuPairings = {
+  "meal-109": {source:"https://yemek.com/tarif/terbiyeli-sulu-kofte/", items:[
+    {name:"Domatesli bulgur pilavı",kind:"Pilav",catalogId:"side-11"},{name:"Acı biber turşusu",kind:"Turşu",purchased:true}
+  ]},
+  "meal-108": {source:"https://yemek.com/tarif/eksili-kofte/", items:[
+    {name:"Cacık",kind:"Meze",catalogId:"side-2"}
+  ]},
+  "meal-107": {source:"https://yemek.com/tarif/sulu-kofte/", items:[
+    {name:"Tereyağlı pilav",kind:"Pilav",catalogId:"side-3"},{name:"Çoban salatası",kind:"Salata",catalogId:"meal-141"}
+  ]},
+  "meal-98": {source:"https://yemek.com/tarif/turlu/", items:[
+    {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Bulgur pilavı",kind:"Pilav",catalogId:"side-10"},{name:"Mevsim salatası",kind:"Salata",catalogId:"side-4"}
+  ]},
+  "meal-75": {source:"https://yemek.com/tarif/tavuk-pirzola/", items:[
+    {name:"Pilav",kind:"Pilav",catalogId:"side-1"},{name:"Fırın patates",kind:"Sebze",catalogId:"side-19"}
+  ]},
+  "meal-74": {source:"https://yemek.com/tarif/dalyan-kofte/", items:[
+    {name:"Patates püresi",kind:"Sebze",catalogId:"side-20"},{name:"Pilav",kind:"Pilav",catalogId:"side-1"}
+  ]},
+  "meal-73": {source:"https://yemek.com/tarif/hasanpasa-koftesi/", items:[
+    {name:"Bulgur pilavı",kind:"Pilav",catalogId:"side-10"}
+  ]},
+  "meal-70": {source:"https://yemek.com/tarif/etli-turlu/", items:[
+    {name:"Kaşık salatası",kind:"Salata",catalogId:"side-13"}
+  ]},
+  "meal-69": {source:"https://yemek.com/tarif/guvec/", items:[
+    {name:"Tereyağlı pilav",kind:"Pilav",catalogId:"side-3"}
+  ]},
+  "meal-68": {source:"https://yemek.com/tarif/orman-kebabi/", items:[
+    {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Mevsim salatası",kind:"Salata",catalogId:"side-4"}
+  ]},
+  "meal-67": {source:"https://yemek.com/tarif/patlican-kebabi/", items:[
+    {name:"Çoban salatası",kind:"Salata",catalogId:"meal-141"}
+  ]},
+  "meal-66": {source:"https://yemek.com/tarif/cokertme-kebabi/", items:[
+    {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Pide veya ekmek",kind:"Ekmek",purchased:true}
+  ]},
+  "meal-63": {source:"https://yemek.com/tarif/hunkar-begendi/", items:[
+    {name:"Bulgur pilavı",kind:"Pilav",catalogId:"side-10"},{name:"Patates püresi",kind:"Sebze",catalogId:"side-20"},{name:"Zeytinyağlı yeşil fasulye",kind:"Sebze",catalogId:"meal-21"},{name:"Turşu çeşitleri",kind:"Turşu",purchased:true}
+  ]},
+  "meal-3": {source:"https://yemek.com/tarif/anne-koftesi/", items:[
+    {name:"Tereyağlı pilav",kind:"Pilav",catalogId:"side-3"},{name:"Çoban salatası",kind:"Salata",catalogId:"meal-141"}
+  ]},
   "meal-0": {source:"https://yemek.com/tarif/lokanta-usulu-tavuk-sote/", items:[
     {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Çoban salata",kind:"Salata",catalogId:"meal-141"},{name:"Yoğurt",kind:"Meze",purchased:true}
   ]},
