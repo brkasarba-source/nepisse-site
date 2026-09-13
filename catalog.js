@@ -16148,6 +16148,818 @@ const meals = [
     ],
     "source": "https://yemek.com/tarif/klasik-atom-mezesi/",
     "note": "Kaynakta porsiyon kalorisi belirtilmemiştir."
+  },
+  {
+    "id": "side-10",
+    "name": "Bulgur Pilavı",
+    "mode": "Eşlikçi",
+    "subcategory": "Pilav",
+    "status": "sourced",
+    "companionOnly": true,
+    "variant": "Onsuz Olmaz: Bulgur Pilavı",
+    "prep": 10,
+    "cook": 20,
+    "time": 45,
+    "yieldPeople": 4,
+    "yieldLabel": "4 kişilik",
+    "extraPrep": false,
+    "waitLabel": "Pişirme sonrası 10-15 dakika demlenir; üst sınırı (15 dakika) toplama dahildir.",
+    "cal": 311,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "yemek kaşığı",
+        "name": "tereyağı"
+      },
+      {
+        "amount": 1,
+        "unit": "yemek kaşığı",
+        "name": "zeytinyağı"
+      },
+      {
+        "amount": 2,
+        "unit": "adet",
+        "name": "kuru soğan"
+      },
+      {
+        "amount": 1,
+        "unit": "diş",
+        "name": "sarımsak"
+      },
+      {
+        "amount": 2,
+        "unit": "adet",
+        "name": "yeşil biber"
+      },
+      {
+        "amount": 1,
+        "unit": "yemek kaşığı",
+        "name": "domates salçası"
+      },
+      {
+        "amount": 0.5,
+        "unit": "yemek kaşığı",
+        "name": "biber salçası"
+      },
+      {
+        "amount": 2,
+        "unit": "su bardağı",
+        "name": "pilavlık bulgur"
+      },
+      {
+        "amount": 1,
+        "unit": "çay kaşığı",
+        "name": "tuz"
+      },
+      {
+        "amount": 1,
+        "unit": "çay kaşığı",
+        "name": "karabiber"
+      },
+      {
+        "amount": 1,
+        "unit": "çay kaşığı",
+        "name": "pul biber"
+      },
+      {
+        "amount": 1,
+        "unit": "tatlı kaşığı",
+        "name": "kekik"
+      },
+      {
+        "amount": 2,
+        "unit": "adet",
+        "name": "domates"
+      },
+      {
+        "amount": 4,
+        "unit": "su bardağı",
+        "name": "su"
+      }
+    ],
+    "source": "https://yemek.com/tarif/bulgur-pilavi/",
+    "note": "Kalori kaynakta iki yerde ve aynı değerde veriliyor: kalori kutusunda \"Bulgur Pilavı Kalorisi Ne Kadar: 1 porsiyon için 311/kcal\", SSS bölümünde \"1 porsiyon ev yapımı bulgur pilavı 311 kalori'dir.\" İkisi de porsiyona bağlı ve birbiriyle çeliştirmediği için kişi başı değer olarak duruyor. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
+  },
+  {
+    "id": "side-11",
+    "name": "Domatesli Biberli Bulgur Pilavı",
+    "mode": "Eşlikçi",
+    "subcategory": "Pilav",
+    "status": "sourced",
+    "companionOnly": true,
+    "variant": null,
+    "prep": 5,
+    "cook": 20,
+    "time": 45,
+    "yieldPeople": 4,
+    "yieldLabel": "4 kişilik",
+    "extraPrep": false,
+    "waitLabel": "Pişirme sonrası 20 dakika demlenir; bu süre toplama dahildir.",
+    "cal": null,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "adet",
+        "name": "orta boy domates"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "büyük boy soğan"
+      },
+      {
+        "amount": 1,
+        "unit": "diş",
+        "name": "sarımsak"
+      },
+      {
+        "amount": 3,
+        "unit": "yemek kaşığı",
+        "name": "zeytinyağı"
+      },
+      {
+        "amount": 1.5,
+        "unit": "su bardağı",
+        "name": "pilavlık bulgur"
+      },
+      {
+        "amount": 1,
+        "unit": "yemek kaşığı",
+        "name": "salça (biber ya da domates)"
+      },
+      {
+        "amount": 1.5,
+        "unit": "çay kaşığı",
+        "name": "tuz"
+      },
+      {
+        "amount": 1,
+        "unit": "çay kaşığı",
+        "name": "toz kırmızı biber"
+      },
+      {
+        "amount": 1,
+        "unit": "çay kaşığı",
+        "name": "karabiber"
+      },
+      {
+        "amount": 2,
+        "unit": "su bardağı",
+        "name": "su"
+      }
+    ],
+    "source": "https://yemek.com/tarif/domatesli-bulgur-pilavi/",
+    "note": "Kalori kaynakta yalnızca \"Domatesli Bulgur Pilavı Kalorisi Ne Kadar: 228/kcal\" olarak, hiçbir birime bağlanmadan veriliyor; SSS bölümünde ve gövde metninde porsiyona ya da kişiye bağlayan bir cümle yok. Bu yüzden boşaltıldı. Salçanın biber mi domates mi olduğunu kaynak seçime bırakmıştır. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
+  },
+  {
+    "id": "side-12",
+    "name": "Arpa Şehriyeli Pirinç Pilavı",
+    "mode": "Eşlikçi",
+    "subcategory": "Pilav",
+    "status": "sourced",
+    "companionOnly": true,
+    "variant": null,
+    "prep": 5,
+    "cook": 20,
+    "time": 35,
+    "yieldPeople": 4,
+    "yieldLabel": "4 kişilik",
+    "extraPrep": false,
+    "waitLabel": "Pişirme sonrası 10 dakika demlenir; bu süre toplama dahildir. Pirinç ayrıca 5 dakika bekletilir.",
+    "cal": null,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "su bardağı",
+        "name": "baldo pirinç"
+      },
+      {
+        "amount": 2,
+        "unit": "yemek kaşığı",
+        "name": "arpa şehriye"
+      },
+      {
+        "amount": 2,
+        "unit": "yemek kaşığı",
+        "name": "tereyağı"
+      },
+      {
+        "amount": 1,
+        "unit": "yemek kaşığı",
+        "name": "sıvı yağ"
+      },
+      {
+        "amount": 1.5,
+        "unit": "su bardağı",
+        "name": "sıcak su"
+      },
+      {
+        "amount": 2,
+        "unit": "tatlı kaşığı",
+        "name": "tuz"
+      }
+    ],
+    "source": "https://yemek.com/tarif/arpa-sehriyeli-pirinc-pilavi/",
+    "note": "Kalori kaynakta yalnızca \"Arpa Şehriyeli Pirinç Pilavı Kalorisi Ne Kadar: 384/kcal\" olarak, hiçbir birime bağlanmadan veriliyor; SSS bölümünde ve gövde metninde porsiyona ya da kişiye bağlayan bir cümle yok. Bu yüzden boşaltıldı. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
+  },
+  {
+    "id": "side-13",
+    "name": "Kaşık Salatası",
+    "mode": "Eşlikçi",
+    "subcategory": "Salata",
+    "status": "sourced",
+    "companionOnly": true,
+    "variant": "Tüm Sofralara Eşlikçi: Kaşık Salatası",
+    "prep": 20,
+    "cook": 0,
+    "time": 20,
+    "yieldPeople": 2,
+    "yieldLabel": "2 kişilik",
+    "extraPrep": false,
+    "waitLabel": null,
+    "cal": null,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "adet",
+        "name": "domates"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "salatalık"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "sivri biber"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "soğan"
+      },
+      {
+        "amount": 5,
+        "unit": "dal",
+        "name": "maydanoz"
+      },
+      {
+        "amount": 2,
+        "unit": "yemek kaşığı",
+        "name": "zeytinyağı"
+      },
+      {
+        "amount": 1,
+        "unit": "yemek kaşığı",
+        "name": "limon suyu"
+      },
+      {
+        "amount": 1,
+        "unit": "yemek kaşığı",
+        "name": "nar ekşisi"
+      },
+      {
+        "amount": 1,
+        "unit": "çay kaşığı",
+        "name": "kuru nane"
+      },
+      {
+        "amount": 1,
+        "unit": "çay kaşığı",
+        "name": "sumak"
+      },
+      {
+        "amount": 1.5,
+        "unit": "çay kaşığı",
+        "name": "tuz"
+      }
+    ],
+    "source": "https://yemek.com/tarif/kasik-salatasi/",
+    "note": "Kaynak sayfasında kaloriden hiç söz edilmiyor. Kaynak tuzu \"1-2 çay kaşığı\" aralığıyla veriyor; aralığın ortası (1,5) alınmıştır. Kuru nane ve sumak kaynakta \"silme\" çay kaşığı olarak verilmiştir, uygulamada düz çay kaşığı olarak gösterilir. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
+  },
+  {
+    "id": "side-14",
+    "name": "Közlenmiş Biber Salatası",
+    "mode": "Eşlikçi",
+    "subcategory": "Salata",
+    "status": "sourced",
+    "companionOnly": true,
+    "variant": "Leziz Sosuyla: Közlenmiş Biber Salatası",
+    "prep": 10,
+    "cook": 0,
+    "time": 10,
+    "yieldPeople": 4,
+    "yieldLabel": "4 kişilik",
+    "extraPrep": false,
+    "waitLabel": null,
+    "cal": null,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 6,
+        "unit": "adet",
+        "name": "kırmızı kapya biber (konserve)"
+      },
+      {
+        "amount": 1,
+        "unit": "diş",
+        "name": "sarımsak"
+      },
+      {
+        "amount": 1,
+        "unit": "çay kaşığı",
+        "name": "tuz"
+      },
+      {
+        "amount": 2,
+        "unit": "yemek kaşığı",
+        "name": "zeytinyağı"
+      },
+      {
+        "amount": 1,
+        "unit": "yemek kaşığı",
+        "name": "nar ekşisi"
+      },
+      {
+        "amount": 3,
+        "unit": "dal",
+        "name": "taze soğan"
+      },
+      {
+        "amount": 0.5,
+        "unit": "demet",
+        "name": "dereotu"
+      },
+      "ceviz (ölçüsü kaynakta yok)"
+    ],
+    "source": "https://yemek.com/tarif/kozlenmis-biber-salatasi/",
+    "note": "Kaynak sayfasında kaloriden hiç söz edilmiyor. Ceviz kaynağın malzeme listesinde yok ama yapılış adımında \"ceviz ekleyip tekrar karıştırın\" deniyor; bu yüzden ölçüsüz olarak listeye alınmıştır. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
+  },
+  {
+    "id": "side-15",
+    "name": "Kuskus Salatası",
+    "mode": "Eşlikçi",
+    "subcategory": "Salata",
+    "status": "sourced",
+    "companionOnly": true,
+    "variant": "Doyurucu ve Pratik: Kuskus Salatası",
+    "prep": 20,
+    "cook": 10,
+    "time": 30,
+    "yieldPeople": 4,
+    "yieldLabel": "4 kişilik",
+    "extraPrep": false,
+    "waitLabel": null,
+    "cal": null,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "paket",
+        "name": "kuskus makarna"
+      },
+      {
+        "amount": 1,
+        "unit": "su bardağı",
+        "name": "haşlanmış mısır"
+      },
+      {
+        "amount": 0.5,
+        "unit": "demet",
+        "name": "taze soğan"
+      },
+      {
+        "amount": 3,
+        "unit": "adet",
+        "name": "kırmızı kapya biber"
+      },
+      {
+        "amount": 0.5,
+        "unit": "demet",
+        "name": "maydanoz"
+      },
+      {
+        "amount": 0.5,
+        "unit": "demet",
+        "name": "dereotu"
+      },
+      {
+        "amount": 4,
+        "unit": "adet",
+        "name": "kornişon salatalık turşusu"
+      },
+      {
+        "amount": 1.5,
+        "unit": "çay kaşığı",
+        "name": "tuz"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "limon suyu"
+      },
+      {
+        "amount": 0.5,
+        "unit": "çay bardağı",
+        "name": "zeytinyağı"
+      }
+    ],
+    "source": "https://yemek.com/tarif/kuskus-salatasi/",
+    "note": "Kaynak sayfasında kaloriden hiç söz edilmiyor. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
+  },
+  {
+    "id": "side-16",
+    "name": "Mısırlı Salata",
+    "mode": "Eşlikçi",
+    "subcategory": "Salata",
+    "status": "sourced",
+    "companionOnly": true,
+    "variant": "Pratik ve Sağlıklı: Mısırlı Salata",
+    "prep": 17,
+    "cook": 0,
+    "time": 17,
+    "yieldPeople": 3,
+    "yieldLabel": "3 kişilik",
+    "extraPrep": false,
+    "waitLabel": null,
+    "cal": null,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "adet",
+        "name": "konserve mısır"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "salatalık"
+      },
+      {
+        "amount": 10,
+        "unit": "adet",
+        "name": "cherry domates"
+      },
+      {
+        "amount": 0.5,
+        "unit": "demet",
+        "name": "dereotu"
+      },
+      {
+        "amount": 0.5,
+        "unit": "demet",
+        "name": "maydanoz"
+      },
+      {
+        "amount": 3,
+        "unit": "dal",
+        "name": "taze soğan"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "kırmızı kapya biber"
+      },
+      {
+        "amount": 3,
+        "unit": "yemek kaşığı",
+        "name": "zeytinyağı"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "limonun suyu"
+      },
+      {
+        "amount": 1,
+        "unit": "tatlı kaşığı",
+        "name": "nar ekşisi"
+      },
+      {
+        "amount": 1,
+        "unit": "tatlı kaşığı",
+        "name": "tuz"
+      },
+      "havuç (ölçüsü kaynakta yok)"
+    ],
+    "source": "https://yemek.com/tarif/misirli-salata/",
+    "note": "Kalori kaynakta yalnızca \"Mısırlı Salata Kalorisi Ne Kadar: 313/kcal\" olarak, hiçbir birime bağlanmadan veriliyor; SSS bölümünde ve gövde metninde porsiyona ya da kişiye bağlayan bir cümle yok. Bu yüzden boşaltıldı. Havuç kaynağın malzeme listesinde yok ama yapılış adımında \"rendelenmiş havuçları\" ekleniyor; bu yüzden ölçüsüz olarak listeye alınmıştır. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
+  },
+  {
+    "id": "side-17",
+    "name": "Yeşil Salata",
+    "mode": "Eşlikçi",
+    "subcategory": "Salata",
+    "status": "sourced",
+    "companionOnly": true,
+    "variant": "Cevizi de Var: Yeşil Salata",
+    "prep": 15,
+    "cook": 0,
+    "time": 15,
+    "yieldPeople": 4,
+    "yieldLabel": "4 kişilik",
+    "extraPrep": false,
+    "waitLabel": null,
+    "cal": 260,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 6,
+        "unit": "yaprak",
+        "name": "kıvırcık marul"
+      },
+      {
+        "amount": 6,
+        "unit": "yaprak",
+        "name": "Akdeniz yeşilliği"
+      },
+      {
+        "amount": 0.5,
+        "unit": "demet",
+        "name": "roka"
+      },
+      {
+        "amount": 0.5,
+        "unit": "demet",
+        "name": "tere"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "domates"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "kırmızı soğan"
+      },
+      {
+        "amount": 1,
+        "unit": "tutam",
+        "name": "dereotu"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "küçük boy konserve mısır"
+      },
+      {
+        "amount": 2,
+        "unit": "yemek kaşığı",
+        "name": "ceviz içi"
+      },
+      {
+        "amount": 0.5,
+        "unit": "adet",
+        "name": "limonun suyu"
+      },
+      {
+        "amount": 1,
+        "unit": "yemek kaşığı",
+        "name": "nar ekşisi"
+      },
+      {
+        "amount": 4,
+        "unit": "yemek kaşığı",
+        "name": "zeytinyağı"
+      },
+      {
+        "amount": 2,
+        "unit": "çay kaşığı",
+        "name": "tuz"
+      }
+    ],
+    "source": "https://yemek.com/tarif/yesil-salata/",
+    "note": "Kalori kaynakta \"Yeşil Salata Kalorisi Ne Kadar: 1 porsiyon (210 g) için 260/kcal\" olarak porsiyona bağlı; kişi başı değer olarak duruyor. SSS bölümündeki \"Düşük kalorili ve yüksek su içeriğine sahip olduğu için kalori alımını artırmaz\" cümlesi bir sayı vermediği için çelişki sayılmamıştır. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
+  },
+  {
+    "id": "side-18",
+    "name": "Acılı Ezme",
+    "mode": "Eşlikçi",
+    "subcategory": "Meze",
+    "status": "sourced",
+    "companionOnly": true,
+    "variant": "İkramların Şahı: Acılı Ezme",
+    "prep": 30,
+    "cook": 0,
+    "time": 30,
+    "yieldPeople": 4,
+    "yieldLabel": "4 kişilik",
+    "extraPrep": false,
+    "waitLabel": null,
+    "cal": null,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "adet",
+        "name": "büyük boy domates"
+      },
+      {
+        "amount": 3,
+        "unit": "adet",
+        "name": "yeşil sivri biber"
+      },
+      {
+        "amount": 3,
+        "unit": "diş",
+        "name": "sarımsak"
+      },
+      {
+        "amount": 6,
+        "unit": "adet",
+        "name": "taze soğan"
+      },
+      {
+        "amount": 0.5,
+        "unit": "demet",
+        "name": "maydanoz"
+      },
+      {
+        "amount": 1,
+        "unit": "tatlı kaşığı",
+        "name": "biber salçası"
+      },
+      {
+        "amount": 1,
+        "unit": "adet",
+        "name": "taze sıkılmış limon suyu"
+      },
+      {
+        "amount": 4,
+        "unit": "yemek kaşığı",
+        "name": "zeytinyağı"
+      },
+      {
+        "amount": 2,
+        "unit": "yemek kaşığı",
+        "name": "nar ekşisi"
+      },
+      {
+        "amount": 1,
+        "unit": "tatlı kaşığı",
+        "name": "nane"
+      },
+      {
+        "amount": 2,
+        "unit": "çay kaşığı",
+        "name": "toz kırmızı biber"
+      },
+      {
+        "amount": 1,
+        "unit": "çay kaşığı",
+        "name": "tuz"
+      }
+    ],
+    "source": "https://yemek.com/tarif/acili-ezme/",
+    "note": "Kaynak aynı sayfada iki kalori değeri veriyor: \"1 porsiyon için 148/kcal\" ve \"1 porsiyon acılı ezme 60-80 kalori civarında\". Hangisinin doğru olduğu kaynaktan anlaşılmadığı için boşaltıldı. Kaynak \"2 çay kaşığı kırmızı biber\" diyor; kaşıkla ölçüldüğü için toz biber olarak alınmıştır. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
+  },
+  {
+    "id": "side-19",
+    "name": "Fırında Patates",
+    "mode": "Eşlikçi",
+    "subcategory": "Sebze",
+    "status": "sourced",
+    "companionOnly": true,
+    "variant": "Kızartmadan, En Hafif Haliyle: Fırında Patates",
+    "prep": 5,
+    "cook": 25,
+    "time": 30,
+    "yieldPeople": 4,
+    "yieldLabel": "1 tepsi (kişi başı 1 orta boy patates varsayıldı — 4 kişilik)",
+    "extraPrep": false,
+    "waitLabel": null,
+    "batchLimited": true,
+    "cal": null,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": "adet",
+        "name": "orta boy patates"
+      },
+      {
+        "amount": 0.5,
+        "unit": "çay bardağı",
+        "name": "zeytinyağı"
+      },
+      {
+        "amount": 1,
+        "unit": "tatlı kaşığı",
+        "name": "tuz"
+      },
+      {
+        "amount": 1,
+        "unit": "çay kaşığı",
+        "name": "karabiber"
+      }
+    ],
+    "source": "https://yemek.com/tarif/firinda-patates/",
+    "note": "Kaynak porsiyonu kişi cinsinden değil \"1 tepsi\" olarak veriyor; listedeki 4 orta boy patates üzerinden kişi başı 1 patates varsayılarak 4 kişilik sayılmıştır ve tek tepsiyle sınırlı olduğu için kişi sayısı bu değerde durur. Kalori kaynakta yalnızca \"Fırında Patates Kalorisi Ne Kadar: 125/kcal\" olarak, hiçbir birime bağlanmadan veriliyor; SSS bölümünde ve gövde metninde porsiyona bağlayan bir cümle yok, bu yüzden boşaltıldı. Kaynağın \"arzuya göre\" dediği 3 dal kekik listeye dahil edilmemiştir. Pişirme süresi kaynağın kendi alanındaki 25 dakikadır; yapılış adımında \"25-30 dakika\" yazmaktadır. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
+  },
+  {
+    "id": "side-20",
+    "name": "Patates Püresi",
+    "mode": "Eşlikçi",
+    "subcategory": "Sebze",
+    "status": "sourced",
+    "companionOnly": true,
+    "variant": "Pürüzsüz ve Yumuşacık: Patates Püresi",
+    "prep": 15,
+    "cook": 30,
+    "time": 45,
+    "yieldPeople": 6,
+    "yieldLabel": "6 kişilik",
+    "extraPrep": false,
+    "waitLabel": null,
+    "cal": null,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 6,
+        "unit": "adet",
+        "name": "orta boy patates"
+      },
+      {
+        "amount": 1,
+        "unit": "su bardağı",
+        "name": "süt"
+      },
+      {
+        "amount": 2,
+        "unit": "yemek kaşığı",
+        "name": "tereyağı"
+      },
+      {
+        "amount": 1,
+        "unit": "çay kaşığı",
+        "name": "tuz"
+      }
+    ],
+    "source": "https://yemek.com/tarif/patates-puresi/",
+    "note": "Kalori kaynakta yalnızca \"Patates Püresi Kalorisi Ne Kadar: 82/kcal\" olarak, hiçbir birime bağlanmadan veriliyor; SSS bölümünde ve gövde metninde porsiyona ya da kişiye bağlayan bir cümle yok. Bu yüzden boşaltıldı. Kaynağın \"arzuya göre\" dediği karabiber listeye dahil edilmemiştir. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
+  },
+  {
+    "id": "dessert-3",
+    "name": "Sütlaç",
+    "mode": "Tatlı",
+    "subcategory": "Sütlü",
+    "status": "sourced",
+    "companionOnly": false,
+    "variant": "Tam Kıvamında: Sütlaç",
+    "prep": 5,
+    "cook": 31,
+    "time": null,
+    "yieldPeople": 6,
+    "yieldLabel": "6 kişilik",
+    "extraPrep": true,
+    "waitLabel": "Soğuduktan sonra buzdolabında en az 2 saat bekler; kaynak üst sınır vermiyor.",
+    "cal": 265,
+    "checkedAt": "2026-09-13",
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": "gram",
+        "name": "pirinç"
+      },
+      {
+        "amount": 2,
+        "unit": "su bardağı",
+        "name": "sıcak su"
+      },
+      {
+        "amount": 1,
+        "unit": "litre",
+        "name": "süt"
+      },
+      {
+        "amount": 180,
+        "unit": "gram",
+        "name": "toz şeker"
+      },
+      {
+        "amount": 2,
+        "unit": "tepeleme yemek kaşığı",
+        "name": "buğday nişastası"
+      },
+      {
+        "amount": 150,
+        "unit": "mililitre",
+        "name": "su"
+      },
+      {
+        "amount": 1.5,
+        "unit": "tatlı kaşığı",
+        "name": "tarçın (servis için)"
+      }
+    ],
+    "source": "https://yemek.com/tarif/sutlac/",
+    "note": "Kalori kaynakta \"1 porsiyon için 265/kcal\" olarak porsiyona bağlı; kişi başı değer olarak duruyor. Pirinç, şeker ve su kaynağın kendi verdiği gram/ml karşılıklarıyla yazılmıştır. Kaynak tarçını \"1-2 tatlı kaşığı\" aralığıyla veriyor; aralığın ortası (1,5) alınmıştır. Buzdolabı beklemesinin üst sınırı kaynakta verilmediği için toplam süre hesaba katılmamıştır. Süre kaynağın kendi değeridir; malzeme ve ekipmana göre değişebilir."
   }
 ];
 
@@ -16156,61 +16968,61 @@ const menuPairings = {
     {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Çoban salata",kind:"Salata",catalogId:"meal-141"},{name:"Yoğurt",kind:"Meze",purchased:true}
   ]},
   "meal-1": {source:"https://yemek.com/tarif/et-sote/", items:[
-    {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Kaşık salata",kind:"Salata"}
+    {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Kaşık salata",kind:"Salata",catalogId:"side-13"}
   ]},
   "meal-2": {source:"https://yemek.com/tarif/tas-kebabi/", items:[
-    {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Közlenmiş biber salatası",kind:"Salata"}
+    {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Közlenmiş biber salatası",kind:"Salata",catalogId:"side-14"}
   ]},
   "meal-4": {source:"https://yemek.com/tarif/adana-kebap/", items:[
     {name:"Lavaş",kind:"Ekmek",purchased:true},{name:"Sumaklı soğan salatası",kind:"Salata",catalogId:"side-6"},{name:"Közlenmiş domates ve biber",kind:"Sebze"}
   ]},
   "meal-5": {source:"https://yemek.com/tarif/tavuk-sis/", items:[
-    {name:"Karnabahar çorbası",kind:"Çorba",catalogId:"meal-136"},{name:"Kinoa salatası",kind:"Salata"}
+    {name:"Karnabahar çorbası",kind:"Çorba",catalogId:"meal-136"},{name:"Kinoa salatası",kind:"Salata",catalogId:"meal-144"}
   ]},
   "meal-6": {source:"https://yemek.com/tarif/tavuk-fajita/", items:[
     {name:"Tortilla",kind:"Ekmek",purchased:true},{name:"Guacamole",kind:"Sos / Meze",catalogId:"side-8"}
   ]},
   "meal-7": {source:"https://yemek.com/tarif/kori-soslu-tavuk/", items:[
-    {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Haşlanmış brokoli",kind:"Sebze",catalogId:"side-5"},{name:"Fırın patates",kind:"Sebze"},{name:"Hafif yoğurtlu salata",kind:"Salata"}
+    {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Haşlanmış brokoli",kind:"Sebze",catalogId:"side-5"},{name:"Fırın patates",kind:"Sebze",catalogId:"side-19"},{name:"Hafif yoğurtlu salata",kind:"Salata"}
   ]},
   "meal-8": {source:"https://yemek.com/tarif/tavuk-sinitzel/", items:[
-    {name:"Fırınlanmış patates püresi",kind:"Sebze"},{name:"Maş fasulyeli yeşil salata",kind:"Salata"},{name:"Haşlanmış brokoli",kind:"Sebze",catalogId:"side-5"}
+    {name:"Fırınlanmış patates püresi",kind:"Sebze",catalogId:"side-20"},{name:"Maş fasulyeli yeşil salata",kind:"Salata"},{name:"Haşlanmış brokoli",kind:"Sebze",catalogId:"side-5"}
   ]},
   "meal-9": {source:"https://yemektarifleri.gzt.com/blog/mantinin-yanina-ne-gider-sofranizi-tamamlayacak-10-tarif-3534916", items:[
-    {name:"Mercimek çorbası",kind:"Çorba",catalogId:"meal-23"},{name:"Gavurdağı salatası",kind:"Salata",catalogId:"meal-143"},{name:"Sütlaç",kind:"Tatlı"}
+    {name:"Mercimek çorbası",kind:"Çorba",catalogId:"meal-23"},{name:"Gavurdağı salatası",kind:"Salata",catalogId:"meal-143"},{name:"Sütlaç",kind:"Tatlı",catalogId:"dessert-3"}
   ]},
   "meal-10": {source:"https://yemek.com/tarif/lokanta-usulu-lahmacun/", items:[
-    {name:"Acılı ezme",kind:"Meze"},{name:"Atom mezesi",kind:"Meze",catalogId:"side-7"}
+    {name:"Acılı ezme",kind:"Meze",catalogId:"side-18"},{name:"Atom mezesi",kind:"Meze",catalogId:"side-7"}
   ]},
   "meal-12": {source:"https://yemek.com/tarif/kuru-fasulye-1/", items:[
     {name:"Tereyağlı pilav",kind:"Pilav",catalogId:"side-3"},{name:"Salatalık turşusu",kind:"Turşu",purchased:true}
   ]},
   "meal-13": {source:"https://yemek.com/tarif/yesil-mercimek-yemegi/", items:[
-    {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Bulgur pilavı",kind:"Pilav"},{name:"Cacık veya yoğurt",kind:"Meze",purchased:true},{name:"Turşu",kind:"Turşu",purchased:true}
+    {name:"Pirinç pilavı",kind:"Pilav",catalogId:"side-1"},{name:"Bulgur pilavı",kind:"Pilav",catalogId:"side-10"},{name:"Cacık veya yoğurt",kind:"Meze",purchased:true},{name:"Turşu",kind:"Turşu",purchased:true}
   ]},
   "meal-14": {source:"https://yemek.com/tarif/barbunya-pilaki/", items:[
-    {name:"Cacık",kind:"Meze",catalogId:"side-2"},{name:"Kuskuslu yaz salatası",kind:"Salata"}
+    {name:"Cacık",kind:"Meze",catalogId:"side-2"},{name:"Kuskuslu yaz salatası",kind:"Salata",catalogId:"side-15"}
   ]},
   "meal-15": {source:"https://yemek.com/tarif/etli-bamya/", items:[
     {name:"Salçalı bulgur pilavı",kind:"Pilav",catalogId:"side-9"}
   ]},
   "meal-16": {source:"https://yemek.com/tarif/karniyarik/", items:[
-    {name:"Tereyağlı pilav",kind:"Pilav",catalogId:"side-3"},{name:"Cacık",kind:"Meze",catalogId:"side-2"},{name:"Yeşil salata",kind:"Salata"},{name:"Turşu",kind:"Turşu",purchased:true}
+    {name:"Tereyağlı pilav",kind:"Pilav",catalogId:"side-3"},{name:"Cacık",kind:"Meze",catalogId:"side-2"},{name:"Yeşil salata",kind:"Salata",catalogId:"side-17"},{name:"Turşu",kind:"Turşu",purchased:true}
   ]},
   "meal-17": {source:"https://yemek.com/tarif/patlican-musakka/", items:[
     {name:"Tereyağlı pilav",kind:"Pilav",catalogId:"side-3"},{name:"Cacık",kind:"Meze",catalogId:"side-2"}
   ]},
   "meal-18": {source:"https://yemek.com/tarif/firinda-tavuk/", items:[
-    {name:"Arpa şehriyeli pirinç pilavı",kind:"Pilav"},{name:"Mevsim salatası",kind:"Salata",catalogId:"side-4"},{name:"Roka salatası",kind:"Salata",catalogId:"meal-142"},{name:"Acılı şalgam",kind:"İçecek",purchased:true}
+    {name:"Arpa şehriyeli pirinç pilavı",kind:"Pilav",catalogId:"side-12"},{name:"Mevsim salatası",kind:"Salata",catalogId:"side-4"},{name:"Roka salatası",kind:"Salata",catalogId:"meal-142"},{name:"Acılı şalgam",kind:"İçecek",purchased:true}
   ]},
   "meal-19": {source:"https://yemek.com/tarif/firinda-makarna/", items:[
-    {name:"Mercimek çorbası",kind:"Çorba",catalogId:"meal-23"},{name:"Mısırlı salata",kind:"Salata"},{name:"Ev köftesi",kind:"Ana yemek"}
+    {name:"Mercimek çorbası",kind:"Çorba",catalogId:"meal-23"},{name:"Mısırlı salata",kind:"Salata",catalogId:"side-16"},{name:"Ev köftesi",kind:"Ana yemek",catalogId:"meal-3"}
   ]},
   "meal-20": {source:"https://yemek.com/tarif/izmir-kofte/", items:[
     {name:"Taze otlu bulgur pilavı",kind:"Pilav"},{name:"Mevsim salatası",kind:"Salata",catalogId:"side-4"},{name:"Yoğurt",kind:"Meze",purchased:true}
   ]},
   "meal-21": {source:"https://ye-mek.net/menu/yanina-ne-gider/zeytinyagli-taze-fasulye", items:[
-    {name:"Domatesli bulgur pilavı",kind:"Pilav"},{name:"Cacık",kind:"Meze",catalogId:"side-2"}
+    {name:"Domatesli bulgur pilavı",kind:"Pilav",catalogId:"side-11"},{name:"Cacık",kind:"Meze",catalogId:"side-2"}
   ]}
 };
 
